@@ -15,8 +15,8 @@ This repository provides all the projects i developed during my first web develo
 
 3.THIRD PROJECT : Portfolio
         A popular beginner web development project showcasting all my skills and providing you all an overview of what i have learnt by far.
-        ~Header Section: A logo at the top, including a few options like Home, About and Contact. It also includes a photo of mone with my briefs.
-        ~About Section: And image of mine with a short bio highlighting my skills and languages. It also provides iconsd redirecting them to my social accounts.
-        ~Resume is provided through a link to download it in PDF Format.
-        ~Project section contains all my recent projects.
-        ~Footer section for all the obvious copyright sections.
+        ~ Header Section: A logo at the top, including a few options like Home, About and Contact. It also includes a photo of mone with my briefs.
+        ~ About Section: And image of mine with a short bio highlighting my skills and languages. It also provides iconsd redirecting them to my social accounts.
+        ~ Resume is provided through a link to download it in PDF Format.
+        ~ Project section contains all my recent projects.
+        ~ Footer section for all the obvious copyright sections.
